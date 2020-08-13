@@ -12,25 +12,25 @@ We suggest you perform a skills and expertise self-analysis with respect to the 
 
 You may use the following table to carry out your evaluation.
 
-### Acquia Certified Cloud Pro Self-Assessment Table
+### Acquia Certified Cloud Platform Pro Self-Assessment Table
 
 |  | Topic | Your Score \(1-10\) |
 | :--- | :--- | :--- |
-|  **1** | **Fundamental web hosting concepts** |  |
+|  **1.0** | **Fundamental web hosting concepts** |  |
 | 1.1 | Demonstrate knowledge of basic web hosting architecture. |  |
 | 1.2 | Demonstrate knowledge of Drupal development workflows. |  |
 | 1.3 | Demonstrate knowledge of key security and performance concepts. |  |
-| **2** | **Acquia Cloud features and Interface** |  |
-| 2.1 | Demonstrate understanding of key features of Acquia Cloud. |  |
+| **2.0** | **Acquia Cloud Platform** **features and Interface** |  |
+| 2.1 | Demonstrate understanding of key features of Acquia Cloud Platform. |  |
 | 2.2 | Demonstrate ability to configure various aspects of an environment. |  |
 | 2.3 | Demonstrate ability to configure teams and users. |  |
-| **3** | **Drupal development workflow on Acquia Cloud** |  |
-| 3.1 | Demonstrate ability to install a new Drupal site on Acquia Cloud. |  |
-| 3.2 | Demonstrate ability to set up local development environment for working with Acquia Cloud. |  |
+| **3.0** | **Drupal development workflow on Acquia Cloud Platform** |  |
+| 3.1 | Demonstrate ability to install a new Drupal site on Acquia Cloud Platform. |  |
+| 3.2 | Demonstrate ability to set up local development environment for working with Acquia Cloud Platform. |  |
 | 3.3 | Demonstrate ability to deploy code, database and files to various environments. |  |
 | 3.4 | Demonstrate ability to manage Drupal site configurations across various environment. |  |
 | 3.5 | Demonstrate ability to use Cloud API for workflow automation. |  |
-| **4** | **Acquia Cloud best practices** |  |
+| **4.0** | **Acquia Cloud Platform** **best practices** |  |
 | 4.1 | Demonstrate understanding of best practices for performance enhancement. |  |
 | 4.2 | Demonstrate understanding of security best practices. |  |
 | 4.3 | Demonstrate understanding of best practices for live deployment. |  |

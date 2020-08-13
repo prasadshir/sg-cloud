@@ -23,28 +23,9 @@ The key benefits for **organizations** building Drupal solutions are:
 
 ## Available Exams
 
-### Drupal Developer Certification
+### Certification Tracks
 
-Acquia offers technical Certification in Drupal 7 and Drupal 8, in four competencies each:
-
-| Drupal 8 | Drupal 7 |
-| :--- | :--- |
-| Acquia Certified Drupal 8 Site Builder | Acquia Certified Drupal 7 Site Builder |
-| Acquia Certified Drupal 8 Developer | Acquia Certified Drupal 7 Developer |
-| Acquia Certified Drupal 8 Front End Specialist | Acquia Certified Drupal 7 Front end Specialist |
-| Acquia Certified Drupal 8 Back End Specialist | Acquia Certified Drupal 7 Back end Specialist |
-
-### Acquia Platform Certification
-
-Acquia provides customers and partners with a valuable, cloud-based platform that enhances the speed, agility, and reliability of delivery of Drupal applications. Acquia Cloud, Acquia Cloud Site Factory, Acquia Lift, Acquia DAM and Acquia Journey are some components of the Acquia Platform.
-
-These Certification Exams for Acquia Platform were launched in 2017.
-
-| Acquia Platform |
-| :--- |
-| Acquia Cloud Pro |
-| Acquia Site Factory Pro |
-| Acquia Lift Pro |
+Acquia offers technical certification exams for Drupal 7, Drupal 8, and Drupal 9, as well as Acquia product specific certification. All certification exams and their respective domains are outlined on [https://www.acquia.com/solutions/customer-success/acquia-certification](https://www.acquia.com/solutions/customer-success/acquia-certification).
 
 ![](.gitbook/assets/inner-page-footer%20%283%29.png)
 

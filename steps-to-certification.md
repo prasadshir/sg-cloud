@@ -10,16 +10,16 @@
 
 As a newcomer to the Acquia platform, take the introductory courses in [Acquia Academy](https://customers.acquiaacademy.com/learn). This will start you on your journey to certification.
 
-* [Acquia Cloud Onboarding Learning Plan](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=8&generated_by=13029&hash=1f1bfe241229f94804c430b485eae729cb708c22)
-* [Acquia Cloud Onboarding: UI Walkthrough](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=8&generated_by=13029&hash=1f1bfe241229f94804c430b485eae729cb708c22)
+* [Acquia Cloud Platform Onboarding Learning Plan](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=8&generated_by=13029&hash=1f1bfe241229f94804c430b485eae729cb708c22)
+* [Acquia Cloud Platform Onboarding: UI Walkthrough](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=8&generated_by=13029&hash=1f1bfe241229f94804c430b485eae729cb708c22)
 
-Free, self-paced e-learning video courses are also available at: [https://training.acquia.com/](https://training.acquia.com/). A list of online resources and documentation for each learning domain in the [Study Guide](study-guide.md) section of this study guide.
+A list of online resources and documentation for each learning domain in the [Study Guide](study-guide.md) section of this study guide.
 
 ## Gain Practical Experience
 
 Completing the course may not make you ready to pass the certification exam. You need to have some real-life practical experience to attempt the exam. For this purpose, we recommend that you gain practical experience by working with at least 2-3 real life projects.
 
-If you are not working on active projects using Acquia Cloud or other products, you can use the [Acquia Cloud Free 30 Day Trial](https://www.acquia.com/choosing-right-acquia-cloud?cs=acf-techeval#free) to prepare for the exam.
+If you are not working on active projects using Acquia Cloud Platform or other products, you can use the [Acquia Cloud Free 30 Day Trial](https://www.acquia.com/choosing-right-acquia-cloud?cs=acf-techeval#free) to prepare for the exam.
 
 ## Perform Self Assessment
 

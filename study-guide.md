@@ -1,10 +1,10 @@
 # Study Guide
 
-## General Overview of Acquia Cloud 
+## General Overview of Cloud Platform
 
-This video will provide an overview of the Acquia Cloud user interface. The resources within each domain will help you investigate each topic in more depth.
+This video will provide an overview of the Cloud Platform user interface. The resources within each domain will help you investigate each topic in more depth.
 
-* [ Acquia Cloud Onboarding: UI Walkthrough](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=8&generated_by=13029&hash=1f1bfe241229f94804c430b485eae729cb708c22)
+*  [Acquia Cloud Platform Onboarding: UI Walkthrough](https://www.acquiaacademy.com/learn/course/8/cloud-platform-onboarding-ui-walkthrough)
 
 ## Study Guide by Domain
 
@@ -16,43 +16,43 @@ A Cloud Pro understands basic website hosting architecture.
 
 **Resource:**
 
-* [Acquia Cloud architecture and key concepts](https://docs.acquia.com/acquia-cloud/arch)
-* [Acquia Cloud](https://docs.acquia.com/acquia-cloud/)
-* [Acquia Cloud API](https://cloudapi-docs.acquia.com/)
+* [Cloud Platform architecture and key concepts](https://docs.acquia.com/cloud-platform/arch/)
+* [Acquia Cloud Platform](https://docs.acquia.com/cloud-platform/)
+* [Acquia Cloud Platform API](https://cloudapi-docs.acquia.com/)
 
 #### **1.2 Demonstrate knowledge of Drupal development workflows**
 
-A Cloud Pro should know how to set up workflows for Drupal development on Acquia Cloud that follow best practices, avoid regression issues, and maintain secure code.
+A Cloud Pro should know how to set up workflows for Drupal development on Cloud Platform that follow best practices, avoid regression issues, and maintain secure code.
 
 **Resources:** 
 
-* [Working with code](https://docs.acquia.com/acquia-cloud/manage/code/)
-* [Code workflows with Acquia Cloud](https://docs.acquia.com/acquia-cloud/develop/code/environments)
-* [Acquia require line](https://docs.acquia.com/acquia-cloud/manage/code/require-line/)
-* [Acquia Cloud How-To](https://support.acquia.com/hc/en-us/articles/360006419794-Rolling-back-production-deploys)
+* [Working with code](https://docs.acquia.com/cloud-platform/manage/code/)
+* [Code workflows with Cloud Platform](https://docs.acquia.com/cloud-platform/manage/code/environments/)
+* [Acquia require line](https://docs.acquia.com/cloud-platform/manage/code/require-line/)
+* [Rolling back production deploys](https://support.acquia.com/hc/en-us/articles/360006419794-Rolling-back-production-deploys)
 
 #### **1.3 Demonstrate knowledge of key security and performance concepts**
 
-A Cloud Pro should know about basic security and performance concepts in Drupal and Acquia Cloud, as well as how to identify when an application does not conform to best practices.
+A Cloud Pro should know about basic security and performance concepts in Drupal and Cloud Platform, as well as how to identify when an application does not conform to best practices.
 
 **Resources:** 
 
-* [Security and compliance](https://docs.acquia.com/acquia-cloud/arch/security)
+* [Security and compliance](https://docs.acquia.com/cloud-platform/arch/security/)
 * [Best practices for a fully SSL-protected site](https://support.acquia.com/hc/en-us/articles/360005255974-Best-practices-for-a-fully-SSL-protected-site)
-* [SSL and HTTPS](https://docs.acquia.com/acquia-cloud/arch/security/#cloud-ssl-and-https)
+* [SSL and HTTPS](https://docs.acquia.com/cloud-platform/arch/security/#cloud-ssl-and-https)
 
-### **Domain 2.0: Acquia Cloud Features and Interface**
+### **Domain 2.0: Cloud Platform Features and Interface**
 
-#### **2.1 Demonstrate understanding of key features of Acquia Cloud**
+#### **2.1 Demonstrate understanding of key features of Cloud Platform**
 
-A Cloud Pro understands the key features and user interface of Acquia Cloud, including basic service levels of Acquia Cloud Professional and Acquia Cloud Enterprise.
+A Cloud Pro understands the key features and user interface of Cloud Platform, including basic service levels of Cloud Platform Professional and Cloud Platform Enterprise.
 
 **Resources:** 
 
-* [Key concepts in Acquia Cloud](https://docs.acquia.com/acquia-cloud/arch/key-concepts)
-* [Comparing Acquia Cloud Professional and Acquia Cloud Enterprise](https://docs.acquia.com/acquia-cloud/arch/compare-ace-acp)
-* [Acquia Cloud CD](https://docs.acquia.com/acquia-cloud/cd/)
-* [Managing Applications on Acquia Cloud](https://docs.acquia.com/acquia-cloud/manage/)
+* [Key concepts in Cloud Platform](https://docs.acquia.com/cloud-platform/arch/key-concepts/)
+* [Comparing Cloud Platform Professional and Cloud Platform Enterprise](https://docs.acquia.com/cloud-platform/arch/compare-ace-acp/)
+* [Cloud Platform CD](https://docs.acquia.com/cloud-platform/cd/)
+* [Managing Applications on Cloud Platform](https://docs.acquia.com/cloud-platform/manage/)
 
 #### **2.2 Demonstrate ability to configure various aspects of an environment**
 
@@ -60,36 +60,36 @@ A Cloud Pro should be able to configure an environment appropriate for team deve
 
 **Resource:** 
 
-* [Configuring an environment](https://docs.acquia.com/acquia-cloud/manage/configure)
-* [Monitoring your application and infrastructure](https://docs.acquia.com/acquia-cloud/monitor/)
+* [Configuring an environment](https://docs.acquia.com/cloud-platform/manage/configure/)
+* [Monitoring your application and infrastructure](https://docs.acquia.com/cloud-platform/monitor/)
 
 #### **2.3 Demonstrate ability to configure teams and users**
 
-A Cloud Pro should be able to set up a team and its users within Acquia Cloud, including assignment of roles, creating custom roles, and administering permissions. Also included is the management of an Organization within Acquia Cloud.
+A Cloud Pro should be able to set up a team and its users within Cloud Platform, including assignment of roles, creating custom roles, and administering permissions. Also included is the management of an Organization within Cloud Platform.
 
 **Resources:** 
 
-* [Managing team members](https://docs.acquia.com/acquia-cloud/access/teams/members/)
-* [Working with roles and permissions](https://docs.acquia.com/acquia-cloud/access/teams/roles/)
-* [Default Acquia Cloud user permissions](https://docs.acquia.com/acquia-cloud/access/teams/permissions/)
-* [Creating a custom role](https://docs.acquia.com/acquia-cloud/access/teams/roles/#cloud-create-custom-role)
-* [Working with organizations](https://docs.acquia.com/acquia-cloud/access/teams/organizations/)
-* [Controlling access to Acquia Cloud](https://docs.acquia.com/acquia-cloud/access/)
+* [Managing team members](https://docs.acquia.com/cloud-platform/access/teams/members/)
+* [Working with roles and permissions](https://docs.acquia.com/cloud-platform/access/teams/roles/)
+* [Default Cloud Platform user permissions](https://docs.acquia.com/cloud-platform/access/teams/permissions/)
+* [Creating a custom role](https://docs.acquia.com/cloud-platform/access/teams/roles/#cloud-create-custom-role)
+* [Working with organizations](https://docs.acquia.com/cloud-platform/access/teams/organizations/)
+* [Controlling access to Cloud Platform](https://docs.acquia.com/cloud-platform/access/)
 
-### **Domain 3.0: Drupal Development workflow on Acquia Cloud**
+### **Domain 3.0: Drupal Development workflow on** Cloud Platform
 
-#### **3.1 Demonstrate ability to install a new Drupal site on Acquia Cloud**
+#### **3.1 Demonstrate ability to install a new Drupal site on** Cloud Platform
 
-A Cloud Pro should be able to install a new Drupal site on Acquia Cloud by creating a new application, importing an existing application, or installing a Drupal distribution.
+A Cloud Pro should be able to install a new Drupal site on Cloud Platform by creating a new application, importing an existing application, or installing a Drupal distribution.
 
 **Resources:** 
 
-* [Creating a new application on Acquia Cloud](https://docs.acquia.com/acquia-cloud/create)
-* [Installing a Drupal distribution](https://docs.acquia.com/acquia-cloud/create/install)
-* [Importing an existing application](https://docs.acquia.com/acquia-cloud/create/import)
+* [Creating a new application on Cloud Platform](https://docs.acquia.com/cloud-platform/create/)
+* [Installing a Drupal distribution](https://docs.acquia.com/cloud-platform/create/install/)
+* [Importing an existing application](https://docs.acquia.com/cloud-platform/create/import/)
 * [Acquia BLT](https://docs.acquia.com/blt/)
 
-#### **3.2 Demonstrate ability to set up a local development environment for working with Acquia Cloud**
+#### **3.2 Demonstrate ability to set up a local development environment for working with** Cloud Platform
 
 A Cloud Pro will be able to set up a local development environment.
 
@@ -100,21 +100,21 @@ A Cloud Pro will be able to set up a local development environment.
 * [Deploying an Application to Acquia Cloud Using Acquia Dev Desktop](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=228&generated_by=13029&hash=f07cd59fdc4891f1d9737fdbbc92a685117a99f3)
 * [Deploying an Application to Acquia Cloud using GIT/SQL-dump](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=241&generated_by=13029&hash=8c9e7862a507cc1f8808cd4f56966aaf45e3c582)
 * [Deploying an Application to Acquia Cloud using BLT/Drupal 8](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=91&generated_by=13029&hash=ae1ea53213d8f0091ee11406c0321ca3c7c010f0)
-* [Acquia Pipelines](https://docs.acquia.com/acquia-cloud/develop/pipelines/)
+* [Acquia Pipelines](https://docs.acquia.com/cloud-platform/develop/pipelines/)
 
 #### **3.3 Demonstrate ability to deploy code, database, and files to various environments**
 
-A Cloud Pro will be able to deploy code, database, and files to various environments on Acquia Cloud, using a workflow that follows best practices.
+A Cloud Pro will be able to deploy code, database, and files to various environments on Cloud Platform, using a workflow that follows best practices.
 
 **Resources:** 
 
-* [Working with code](https://docs.acquia.com/acquia-cloud/manage/code/)
-* [Code workflows with Acquia Cloud](https://docs.acquia.com/acquia-cloud/develop/code/environments)
-* [Working with files](https://docs.acquia.com/acquia-cloud/manage/files)
-* [Backing up your Drupal file system](https://docs.acquia.com/acquia-cloud/manage/back-up/)
-* [rsyncing files on Acquia Cloud](https://docs.acquia.com/acquia-cloud/manage/files/transfer-files/rsync/)
-* [Using Production mode to protect your live application](https://docs.acquia.com/acquia-cloud/manage/prod-mode)
-* [Acquia require line](https://docs.acquia.com/acquia-cloud/manage/code/require-line/)
+* [Working with code](https://docs.acquia.com/cloud-platform/manage/code/)
+* [Code workflows with Cloud Platform](https://docs.acquia.com/cloud-platform/manage/code/environments/)
+* [Working with files](https://docs.acquia.com/cloud-platform/manage/files/)
+* [Backing up your Drupal file system](https://docs.acquia.com/cloud-platform/manage/back-up/)
+* [rsyncing files on Cloud Platform](https://docs.acquia.com/cloud-platform/manage/files/transfer-files/rsync/)
+* [Using Production mode to protect your live application](https://docs.acquia.com/cloud-platform/manage/prod-mode/)
+* [Acquia require line](https://docs.acquia.com/cloud-platform/manage/code/require-line/)
 
 #### **3.4 Demonstrate ability to manage Drupal site configurations across various environments**
 
@@ -122,26 +122,25 @@ A Cloud Pro will be able to manage site configurations for a Drupal application 
 
 **Resources:** 
 
-* [Configuring your environments](https://docs.acquia.com/acquia-cloud/manage/configure)
-* [Managing applications using the command line](https://docs.acquia.com/acquia-cloud/ssh)
-* [Enabling SSL](https://docs.acquia.com/acquia-cloud/manage/ssl/)
-* [Custom VCL engagements](https://docs.acquia.com/acquia-cloud/ready/customvcl)
-* [Developing with the Cloud API](https://docs.acquia.com/acquia-cloud/api)
+* [Configuring your environments](https://docs.acquia.com/cloud-platform/manage/configure/)
+* [Managing applications using the command line](https://docs.acquia.com/cloud-platform/manage/ssh/)
+* [Enabling SSL](https://docs.acquia.com/cloud-platform/manage/ssl/)
+* [Custom VCL engagements](https://docs.acquia.com/cloud-platform/ready/customvcl/)
+* [Developing with the Cloud API](https://docs.acquia.com/cloud-platform/develop/api/)
 
 #### **3.5 Demonstrate ability to use Cloud API for workflow automation**
 
-A Cloud Pro will be able to use the Acquia Cloud API to automate workflows for development, authentication, drush and cloud hooks.
+A Cloud Pro will be able to use the Acquia Cloud Platform API to automate workflows for development, authentication, drush and cloud hooks.
 
 **Resources:** 
 
-* [Cloud API authentication](https://docs.acquia.com/acquia-cloud/develop/api/auth/)
-* [Drush Cloud reference](https://docs.acquia.com/acquia-cloud/develop/api/drush-reference/)
-* [Automating with Cloud Hooks](https://docs.acquia.com/acquia-cloud/develop/api/cloud-hooks/)
+* [Cloud API authentication](https://docs.acquia.com/cloud-platform/develop/api/auth/)
+* [Drush Cloud reference](https://docs.acquia.com/cloud-platform/develop/api/drush-reference/)
+* [Automating with Cloud Hooks](https://docs.acquia.com/cloud-platform/develop/api/cloud-hooks/)
   * [Acquia Cloud Hooks](https://github.com/acquia/cloud-hooks)
-  * [10 Ways Acquia Cloud Hooks can help you sleep at night](https://dev.acquia.com/blog/10-ways-acquia-cloud-hooks-can-help-you-sleep-night)
   * [Using Cloud Hooks on Acquia Cloud Hosting](https://www.mediacurrent.com/blog/using-cloud-hooks-acquia-cloud-hosting/)
 
-### **Domain 4.0: Acquia Cloud Best Practices**
+### **Domain 4.0:** Cloud Platform **Best Practices**
 
 #### **4.1 Demonstrate understanding of best practices for performance enhancement**
 
@@ -149,7 +148,7 @@ A Cloud Pro will understand best practices for performance enhancement of Drupal
 
 **Resources:** 
 
-* [Improving application performance](https://docs.acquia.com/acquia-cloud/performance)
+* [Improving application performance](https://docs.acquia.com/cloud-platform/performance/)
 * [Using Fast 404 to improve Drupal performance](https://support.acquia.com/hc/en-us/articles/360005246714-Using-Fast-404-to-improve-Drupal-performance)
 
 #### **4.2 Demonstrate understanding of security best practices**
@@ -158,13 +157,13 @@ A Cloud Pro will understand security best practices related to access control, m
 
 **Resources:** 
 
-* [Controlling access to Acquia Cloud](https://docs.acquia.com/acquia-cloud/access)
-* [Managing users, teams, roles, and permissions](https://docs.acquia.com/acquia-cloud/access/teams/)
-* [Managing security settings](https://docs.acquia.com/acquia-cloud/access/security)
-* [Enforcing password strength](https://docs.acquia.com/acquia-cloud/access/password-strength)
-* [Setting up two-step verification](https://docs.acquia.com/acquia-cloud/access/two-step-verification)
-* [Using two-step verification with your Acquia user account](https://docs.acquia.com/acquia-cloud/access/signin)
-* [Securing your application with IP address whitelisting](https://docs.acquia.com/acquia-cloud/access/ip-whitelist)
+* [Controlling access to Cloud Platform](https://docs.acquia.com/cloud-platform/access/)
+* [Managing users, teams, roles, and permissions](https://docs.acquia.com/cloud-platform/access/teams/)
+* [Managing security settings](https://docs.acquia.com/cloud-platform/access/security/)
+* [Enforcing password strength](https://docs.acquia.com/cloud-platform/access/password-strength/)
+* [Setting up two-step verification](https://docs.acquia.com/cloud-platform/access/two-step-verification/)
+* [Using two-step verification with your Acquia user account](https://docs.acquia.com/cloud-platform/access/signin/)
+* [Securing your application with IP address whitelisting](https://docs.acquia.com/cloud-platform/access/ip-whitelist/)
 
 #### **4.3 Demonstrate understanding of best practices for Live Deployment**
 
@@ -172,60 +171,60 @@ A Cloud Pro will understand the best practices related to live deployment, inclu
 
 **Resources:** 
 
-* [Managing your code with other tools](https://docs.acquia.com/acquia-cloud/manage/code/other/)
-* [Using Live Development mode to change code on your server](https://docs.acquia.com/acquia-cloud/manage/code/livedev/)
-* [Live Development workflow](https://docs.acquia.com/acquia-cloud/manage/code/livedev-workflow/)
+* [Managing your code with other tools](https://docs.acquia.com/cloud-platform/manage/code/other/)
+* [Using Live Development mode to change code on your server](https://docs.acquia.com/cloud-platform/manage/code/livedev/)
+* [Live Development workflow](https://docs.acquia.com/cloud-platform/manage/code/livedev-workflow/)
 
 ## Additional Resources
 
 The following are additional resources provided for your supplemental learning and practice.
 
-**Acquia Cloud infrastructure**
+**Cloud Platform infrastructure**
 
-The [Acquia Cloud architecture and key concepts](https://docs.acquia.com/acquia-cloud/arch) section of the Acquia Cloud documentation describes how Acquia Cloud works, including information about Acquia Cloud's architecture, security, high availability features, and compliance with standards and regulations.
+The [Cloud Platform architecture and key concepts](https://docs.acquia.com/cloud-platform/arch/) section of the Cloud Platform documentation describes how Cloud Platform works, including information about Cloud Platform's architecture, security, high availability features, and compliance with standards and regulations.
 
-As indicated in the two diagrams below, there are four main components for both Acquia Cloud Enterprise and Acquia Cloud Professional applications:
+As indicated in the two diagrams below, there are four main components for both Cloud Platform Enterprise and Cloud Platform Professional applications:
 
 * _Reverse proxy caching and load balancing servers_ - Varnish/nginx
 * _Web servers_ - Apache with PHP and Drupal code
 * _Database servers_ - MySQL \(Percona\)
 * _Network file system_ - \(GlusterFS\)
 
-The exact configuration of an Acquia Cloud application's infrastructure depends on several factors, including whether the application is part of Acquia Cloud Enterprise or Acquia Cloud Professional.
+The exact configuration of an Cloud Platform application's infrastructure depends on several factors, including whether the application is part of Cloud Platform Enterprise or Cloud Platform Professional.
 
-**Acquia Cloud Enterprise infrastructure diagram**
+**Cloud Platform Enterprise infrastructure diagram**
 
-Here is a diagram of an Acquia Cloud Enterprise application and how the components interact with one another for different user profiles:![](.gitbook/assets/ACE_infrastructure_diagram.png) ****
+Here is a diagram of an Cloud Platform Enterprise application and how the components interact with one another for different user profiles:![](.gitbook/assets/ACE_infrastructure_diagram.png) ****
 
-**Acquia Cloud Professional infrastructure diagram**
+**Cloud Platform Professional infrastructure diagram**
 
-As a comparison, the following is an example of an Acquia Cloud Professional application, and its component interactions:![](.gitbook/assets/ACP_infrastructure_diagram.png)
+As a comparison, the following is an example of an Cloud Platform Professional application, and its component interactions:![](.gitbook/assets/ACP_infrastructure_diagram.png)
 
-**Acquia Cloud Site Factory infrastructure diagram**
+**Acquia Site Factory infrastructure diagram**
 
-The [Acquia Cloud Site Factory and Acquia Cloud](https://docs.acquia.com/site-factory/acquia-cloud/features) section of the Acquia Cloud documentation describes the supported and included features of Acquia Cloud Site Factory, which is built upon Acquia Cloud Enterprise.
+The [Acquia Site Factory](https://docs.acquia.com/site-factory/) and Cloud Platform section of the Cloud Platform documentation describes the supported and included features of Acquia Site Factory, which is built upon Cloud Platform Enterprise.
 
-The following diagram describes the infrastructure used for the Acquia Cloud Site Factory application, and how its components interact with one another:![](.gitbook/assets/ACSF_infrastructure_diagram.png)
+The following diagram describes the infrastructure used for the Cloud Platform Site Factory application, and how its components interact with one another:![](.gitbook/assets/ACSF_infrastructure_diagram.png)
 
-**Cloud videos in Acquia Academy**
+**Cloud Platform videos in Acquia Academy**
 
-* [Acquia Cloud Hands-On Demonstration](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=276&generated_by=13029&hash=0486344754712ae568658a46de77b8b2c8018817)
-* [Acquia Cloud Onboarding: Learning Plan](https://www.acquiaacademy.com/lms/index.php?r=coursepath/deeplink&id_path=2&generated_by=13029&hash=cbf41fe0629c3af9e0b62e3d2fdf8ebb34fa4594)
-* [Acquia Cloud Onboarding: UI Walkthrough](https://www.acquiaacademy.com/lms/index.php?r=course/deeplink&course_id=8&generated_by=13029&hash=1f1bfe241229f94804c430b485eae729cb708c22)
+* [Cloud Platform Hands-On Demonstration](https://www.acquiaacademy.com/learn/course/276/cloud-platform-hands-on-demonstration)
+* [Cloud Platform Onboarding: Learning Plan](https://www.acquiaacademy.com/learn/learning_plan/view/2/acquia-cloud-customer-onboarding)
+* [Cloud Platform Onboarding: UI Walkthrough](https://www.acquiaacademy.com/learn/course/8/cloud-platform-onboarding-ui-walkthrough)
 
 **Caching and Varnish**
 
-* [Configuring Drupal cache settings for Varnish](https://docs.acquia.com/acquia-cloud/performance/varnish/#drupal-cache-settings-varnish)
+* [Configuring Drupal cache settings for Varnish](https://docs.acquia.com/cloud-platform/performance/varnish/#drupal-cache-settings-varnish)
 * [How Drupal page cache works](https://docs.acquia.com/resource/caching/drupal/)
 * [Caching overview](https://docs.acquia.com/resource/caching/)
-* [Views caching](https://docs.acquia.com/acquia-cloud/manage/code/other/)
-* [Using Varnish](https://docs.acquia.com/acquia-cloud/performance/varnish)
+* [Views caching](https://docs.acquia.com/cloud-platform/manage/code/other/)
+* [Using Varnish](https://docs.acquia.com/cloud-platform/performance/varnish/)
 * [Introduction to Varnish](https://support.acquia.com/hc/en-us/articles/360005853313-Introduction-to-Varnish)
-* [Bypassing the Varnish cache](https://docs.acquia.com/acquia-cloud/performance/varnish/#sts=Bypassing%20the%20Varnish%20cache%C2%B6)
-* [Purging Varnish cache on Acquia Cloud](https://docs.acquia.com/acquia-cloud/performance/varnish/purging/)
+* [Bypassing the Varnish cache](https://docs.acquia.com/cloud-platform/performance/varnish/#sts=Bypassing%20the%20Varnish%20cache%C2%B6)
+* [Purging Varnish cache on Cloud Platform](https://docs.acquia.com/cloud-platform/performance/varnish/purging/)
 * [Simplified VCL for Varnish](https://support.acquia.com/hc/en-us/articles/360005540293-Simplified-VCL-for-Varnish)
 * [Set max-age headers for specific pages, files, or paths](https://support.acquia.com/hc/en-us/articles/360004311534-Set-max-age-headers-for-specific-pages-files-or-paths)
-* [Custom Varnish configuration \(VCL\) for Acquia Cloud Enterprise applications](https://docs.acquia.com/acquia-cloud/performance/varnish/custom/)
+* [Custom Varnish configuration \(VCL\) for Cloud Platform Enterprise applications](https://docs.acquia.com/cloud-platform/performance/varnish/custom/)
 * [Installing Acquia Purge](https://docs.acquia.com/resource/caching/purge/)
 
 ![](.gitbook/assets/Screen%20Shot%202017-11-27%20at%2012.21.01%20PM.png)

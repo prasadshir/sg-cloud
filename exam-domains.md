@@ -7,9 +7,9 @@ _**Note**: This exam blueprint includes topics/domains and test objectives to he
 | Domain | % of Examination |
 | :--- | :--- |
 | 1.0 Fundamental Web Hosting Concepts | 15% |
-| 2.0 Acquia Cloud Features and Interface | 35% |
-| 3.0 Drupal Development Workflow on Acquia Cloud | 35% |
-| 4.0 Acquia Cloud Best Practices | 15% |
+| 2.0 Acquia Cloud Platform Features and Interface | 35% |
+| 3.0 Drupal Development Workflow on Acquia Cloud Platform | 35% |
+| 4.0 Acquia Cloud Platform Best Practices | 15% |
 | TOTAL | 100% |
 
 ## Content
@@ -20,21 +20,21 @@ _**Note**: This exam blueprint includes topics/domains and test objectives to he
 1.2. Demonstrate knowledge of Drupal development workflows  
 1.3. Demonstrate knowledge of key security and performance concepts
 
-### **Domain 2.0: Acquia Cloud Features and Interface**
+### **Domain 2.0: Acquia Cloud** Platform **Features and Interface**
 
-2.1 Demonstrate understanding of key features of Acquia Cloud  
+2.1 Demonstrate understanding of key features of Acquia Cloud Platform  
 2.2 Demonstrate ability to configure various aspects of an environment  
 2.3 Demonstrate ability to configure teams and users
 
-### **Domain 3.0: Drupal Development Workflow on Acquia Cloud**
+### **Domain 3.0: Drupal Development Workflow on Acquia Cloud** Platform
 
-3.1 Demonstrate ability to install a new Drupal site on Acquia Cloud  
-3.2 Demonstrate ability to set up local development environment for working with Acquia Cloud  
+3.1 Demonstrate ability to install a new Drupal site on Acquia Cloud Platform  
+3.2 Demonstrate ability to set up local development environment for working with Acquia Cloud ****Platform  
 3.3 Demonstrate ability to deploy code, database, and files to various environments  
 3.4 Demonstrate ability to manage Drupal site configurations across various environments  
 3.5 Demonstrate ability to use Cloud API for workflow automation
 
-### **Domain 4.0: Acquia Cloud Best Practices**
+### **Domain 4.0: Acquia Cloud** Platform **Best Practices**
 
 4.1 Demonstrate understanding of best practices for performance enhancement  
 4.2 Demonstrate understanding of security best practices  
